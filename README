@@ -1,0 +1,15 @@
+# teste_brasilprev
+Escrito em python3
+utilização do programa em python
+```
+$./main.py
+```
+executa o programa gerando a saida para o terminal
+para executar para o simulador, é possivel preencher conforme o exemplo a abaixo quando um valor não é passado, o valor default proposto é executado, nenhum parametro é necessário.
+```
+./main.py <qtd_simulacao> <qtd_turnos> <qtd_propriedades> <montante_inicial> <valor_minimo_propriedade> <valor_maximo_propriedade> <percentual_aluguel><qtd_ganha_por_volta>
+```
+Para ajuda, use: 
+```
+$./main.py --help ou help ou ?
+```
