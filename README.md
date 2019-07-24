@@ -17,7 +17,7 @@ $./main.py --help ou help ou ?
 # premissas
 para a criação das propriedades foi utilizado um gerador de propriedade. O gerador utiliza a seguinte lógica:
 
- - Todas as propriedades tem o valor variando entre um valor mínimo(definido em 50) e um valor máximo(definodo em 500).
+ - Todas as propriedades tem o valor variando entre um valor mínimo(definido em 50) e um valor máximo(definido em 500).
  - Todos os alugueis são baseados em um percentual(25%) do valor do imóvel (no banco imobiliário o valor é de aproximadamente 9%).
  - A ordem das propriedades não alteradas a cada nova jogada.
 
