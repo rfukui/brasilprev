@@ -14,7 +14,7 @@ Para ajuda, use:
 $./main.py --help ou help ou ?
 ```
 
-#premissas
+# premissas
 para a criação das propriedades foi utilizado um gerador de propriedade. O gerador utiliza a seguinte lógica:
 
  - Todas as propriedades tem o valor variando entre um valor mínimo(definido em 50) e um valor máximo(definodo em 500).
